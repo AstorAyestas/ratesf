@@ -1,3 +1,11 @@
+# React js app Rates Frontend
+
+This project has the objective of exploring new technologies to expose the IT team where I currently work in search of new tools to the development team
+
+## the application itself
+
+This application shows a small form that an api consumes to find the different conversion rates
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
